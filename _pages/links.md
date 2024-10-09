@@ -17,6 +17,8 @@ A collection of links I find interesting and/or useful spanning many topics. The
 ### Sports Analytics
 
 * Dominic Samangy - Guide to Sports Analytics [Google Doc](https://docs.google.com/spreadsheets/u/0/d/1LPe8xYduoep9qCrNzBGdJHaHZ8dnmdHNnu7UXZKzawU/htmlview#)
+* David L. Carey - Resources [https://david-carey.github.io/resources/](https://david-carey.github.io/resources/)
+    * Github - [https://github.com/david-carey](https://github.com/david-carey)
 
 ### Bitcoin Resources
 
