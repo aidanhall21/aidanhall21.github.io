@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Aidan Hall is a web developer, coder, gambler, and data scientist specializing. He is mainly focused on building predictive models that are profitable when tested against sportsbooks, as well as creating tools and apps that enhance the experience for pickem and best ball gamers.
+Aidan Hall is a web developer, gambler, and data scientist. He is mainly focused on building predictive models that are profitable when tested against sportsbooks, as well as creating tools and apps that enhance the experience for pickem and best ball gamers.
 
 ### Education
 
