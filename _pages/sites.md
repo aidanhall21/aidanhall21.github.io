@@ -5,6 +5,8 @@ permalink: /sites/
 author_profile: true
 toc: false
 toc_sticky: false
+redirect_from: 
+  - /sites
 ---
 
 {% include base_path %}
