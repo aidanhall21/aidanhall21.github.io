@@ -32,8 +32,6 @@ A collection of links I find interesting and/or useful spanning many topics. The
 * Peatbot - [https://peatbot.com/](https://peatbot.com/)
 * Ray Peat Emails - [https://raypeatemails.com/Welcome](https://raypeatemails.com/Welcome)
 
-### Tweets
-
 ### Various
 
 * Paul Graham - How To Start A Startup [https://paulgraham.com/start.html](https://paulgraham.com/start.html)
