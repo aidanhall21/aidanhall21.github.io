@@ -13,6 +13,11 @@ toc_sticky: false
 
 This is a list of websites and apps that I've made that are currently live on the internet.
 
+*************
+
+### Sweating Dingers ([link](https://sweating-dingers.com/))
+
+This is a companion tool/website to Underdog Fantasy designed to help you sweat your Dinger teams more effectively in season. Deep dive into player data, advance rates, and more. Keep track of your favorite influencer's teams as well as your own. Built in PHP with SQLite.
 
 *************
 
