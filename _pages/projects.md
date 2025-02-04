@@ -15,6 +15,12 @@ A list of various other projects I've worked on and contributed to in more or le
 
 *************
 
+### Drafters Fantasy Pickem Scraper and Poster ([GitHub](https://github.com/aidanhall21/drafters-scraper))
+
+This is a Python project that streams prop odds from sports books, compares them to pick'em lines on Drafters.com, finds value, and submits pick'em slips automatically to your account. 
+
+*************
+
 ### Underdog Fantasy Pickem Scraper ([GitHub](https://github.com/aidanhall21/underdog-fantasy-pickem-scraper))
 
 This is an easy to use Python script that scrapes the available pickem lines from Underdog Fantasy Sports and outputs the results to a CSV file.

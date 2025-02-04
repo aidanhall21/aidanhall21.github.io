@@ -24,7 +24,13 @@ A collection of links I find interesting and/or useful spanning many topics. The
 
 * Jameson Lopp - Bitcoin Info - [https://www.lopp.net/bitcoin-information.html](https://www.lopp.net/bitcoin-information.html)
 * Bitcoin Security Guide - [https://bitcoinsecurity.guide/](https://bitcoinsecurity.guide/)
-* The writings of Dergigi [https://dergigi.com/words/](https://dergigi.com/words/)
+* The writings of Dergigi - [https://dergigi.com/words/](https://dergigi.com/words/)
+* Berryhorse Youtube Channel - [https://www.youtube.com/@berryhorse](https://www.youtube.com/@berryhorse/streams)
+
+### Health and Diet
+
+* Peatbot - [https://peatbot.com/](https://peatbot.com/)
+* Ray Peat Emails - [https://raypeatemails.com/Welcome](https://raypeatemails.com/Welcome)
 
 ### Tweets
 
