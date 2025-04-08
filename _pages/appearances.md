@@ -15,6 +15,13 @@ An archive of various appearances I've made on streams and podcasts.
 
 *************
 
+### AL Central Preview for Underdog and DraftKings MLB Best Ball - The Stacking Dingers Show Episode 42
+-- March 12, 2025 ([YouTube](https://www.youtube.com/watch?v=Kd4UbyOhsHM))
+
+I hop on the Stacking Dingers show to preview the AL Central from a Fantasy perspective
+
+*************
+
 ### Weekly Scoring - The Stacking Dingers Show Episode 19
 -- August 23, 2024 ([YouTube](https://www.youtube.com/watch?v=wVmz5kikiQ4))
 
