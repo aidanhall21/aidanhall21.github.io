@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- {% include toc %} -->
 
-This is a list of websites and apps that I've made that are currently live on the internet.
+This is a list of websites and apps I've made. I like to play around with different coding languages and frameworks, but primarily stick to PHP, Python/Flask, and JavaScript.
 
 *************
 
