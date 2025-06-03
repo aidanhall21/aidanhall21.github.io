@@ -17,25 +17,31 @@ This is a list of websites and apps I've made. I like to play around with differ
 
 *************
 
+### BBMock ([link](https://bbmock.com/))
+
+A tongue-in-cheek website that let's you mock draft the flagship NFL contest from Underdog Fantasy as many times as you want. Provides you with 11 computer draft mates making realistic draft picks based on historical probabilities.
+
+*************
+
 ### Sweating Dingers ([link](https://sweating-dingers.com/))
 
 This is a companion tool/website to Underdog Fantasy designed to help you sweat your Dinger teams more effectively in season. Deep dive into player data, advance rates, and more. Keep track of your favorite influencer's teams as well as your own. Built in PHP with SQLite.
 
 *************
 
-### Underdog MLB Pickem Sims App ([link](https://melodic-clafoutis-891e96.netlify.app/))
+### Sweating Pickems ([link](https://sweating-pickems.com/))
 
-This is an as yet unnamed app that I'm developing. I run my own simulations using projections to attack MLB pickem lines on Underdog and elsewhere. I decided to slap a frontend on those sims and give it out to the public for free. I'm still working out the kinks in the production version so the app is still in beta but should be fully operational in time for the 2025 MLB season. I also plan on creating some neat tools/visuals that will make tracking and following your MLB Best Ball teams much easier and more fun.
+A tool that let's you use your own MLB daily fantasy projections to simulate games 1000s of times and compare the outcome distributions against sportsbook prop lines to find the best values
 
 *************
 
-### Dinger Data ([link](https://dinger-data.streamlit.app/))
+### Dinger Data (defunct) ([link](https://dinger-data.streamlit.app/))
 
 A site that I built that myself and others used to track the season long and week to week fantasy scoring output for MLB players during the 2024 MLB Best Ball season. I built this because it was otherwise impossible to find Underdog specific scoring results in an easily searchable format. I do plan on tracking scoring fo the 2025 season either at this same site or incorporating it into a larger app that I have plans for.
 
 *************
 
-### Pickem Results Tracker ([link](https://aidanhall21.evidence.app/))
+### Pickem Results Tracker (defunct) ([link](https://aidanhall21.evidence.app/))
 
 A site I built that tracks my Underdog Fantasy Pickem performance. Needs to be updated to reflect the end of the 2024 MLB season.
 
